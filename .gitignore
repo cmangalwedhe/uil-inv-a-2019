@@ -1,0 +1,11 @@
+.idea/
+Inv A Output Files/
+Inv A Solutions/
+Inv A Solutions_dat_out_files/
+Inv A Student Data/
+InvA Judge Data/
+out/
+*.dat
+*.pdf
+*.iml
+*.xml
